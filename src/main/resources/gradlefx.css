@@ -1,0 +1,14 @@
+#root {
+    -fx-background-color: #dddddd;
+}
+
+#comboBox {
+}
+
+#button {
+}
+
+#console {
+    -fx-background-color: #000000;
+    -fx-text-fill: #ffffff;
+}
