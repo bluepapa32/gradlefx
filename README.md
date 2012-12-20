@@ -3,8 +3,8 @@ gradlefx
 
 実行：
 
-	sh gradlew	// Mac OS X
-	gradlew		// Windows
+	sh gradlew run	// Mac OS X
+	gradlew	run		// Windows
 
 
 ビルド：
